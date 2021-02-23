@@ -1,4 +1,4 @@
-package com.miw.gilderose.config;
+package com.miw.gildedrose.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;

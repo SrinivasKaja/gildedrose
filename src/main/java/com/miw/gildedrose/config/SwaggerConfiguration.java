@@ -1,4 +1,4 @@
-package com.miw.gilderose.config;
+package com.miw.gildedrose.config;
 
 //@Configuration
 //@EnableSwagger2

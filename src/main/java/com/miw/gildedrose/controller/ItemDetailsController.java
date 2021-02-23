@@ -10,9 +10,9 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.miw.gildedrose.request.BuyItemRequest;
+import com.miw.gildedrose.response.BaseResponse;
+import com.miw.gildedrose.response.ItemResponse;
 import com.miw.gildedrose.service.ItemDetailsService;
-import com.miw.gilderose.response.BaseResponse;
-import com.miw.gilderose.response.ItemResponse;
 
 @RestController
 @RequestMapping("/api/gildedrose")

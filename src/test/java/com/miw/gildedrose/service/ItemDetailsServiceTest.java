@@ -21,8 +21,8 @@ import com.miw.gildedrose.entities.Item;
 import com.miw.gildedrose.enums.StatusCode;
 import com.miw.gildedrose.manager.ItemDetailsManager;
 import com.miw.gildedrose.mappers.ItemDetailsResponseMapper;
-import com.miw.gilderose.response.BaseResponse;
-import com.miw.gilderose.response.ItemResponse;
+import com.miw.gildedrose.response.BaseResponse;
+import com.miw.gildedrose.response.ItemResponse;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest

@@ -3,7 +3,7 @@ package com.miw.gildedrose.mappers;
 import org.springframework.stereotype.Component;
 
 import com.miw.gildedrose.entities.Item;
-import com.miw.gilderose.response.ItemResponse;
+import com.miw.gildedrose.response.ItemResponse;
 
 @Component
 public class ItemDetailsResponseMapper implements Mapper<Item, ItemResponse> {

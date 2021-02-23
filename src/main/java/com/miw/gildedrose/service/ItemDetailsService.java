@@ -1,7 +1,7 @@
 package com.miw.gildedrose.service;
 
-import com.miw.gilderose.response.BaseResponse;
-import com.miw.gilderose.response.ItemResponse;
+import com.miw.gildedrose.response.BaseResponse;
+import com.miw.gildedrose.response.ItemResponse;
 
 public interface ItemDetailsService {
 	

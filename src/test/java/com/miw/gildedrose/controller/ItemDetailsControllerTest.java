@@ -19,8 +19,8 @@ import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.web.servlet.MockMvc;
 
 import com.miw.gildedrose.enums.StatusCode;
-import com.miw.gilderose.response.BaseResponse;
-import com.miw.gilderose.response.ItemResponse;
+import com.miw.gildedrose.response.BaseResponse;
+import com.miw.gildedrose.response.ItemResponse;
 
 @RunWith(SpringRunner.class)
 @WebMvcTest(ItemDetailsController.class)

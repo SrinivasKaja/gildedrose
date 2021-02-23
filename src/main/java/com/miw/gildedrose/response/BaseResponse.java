@@ -1,4 +1,4 @@
-package com.miw.gilderose.response;
+package com.miw.gildedrose.response;
 
 import java.util.List;
 
